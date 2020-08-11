@@ -1,4 +1,4 @@
-# Count-number-of-Lemons-using-Machine-Learning
+# Count number of Lemons using Machine-Learning
 
 ## Objective: 
 To segment and count all the lemons present in an image given by the user
