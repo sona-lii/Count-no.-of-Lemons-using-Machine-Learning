@@ -26,3 +26,9 @@ images.
 ##### 6. Draw contours over original image and print both together
 ##### 7. Use watershed to detect touching contours
 ##### 8. Take avg of watershed and contours detection to give satisfactory results.
+
+
+## Steps for Preprocessing
+##### a) HSV split. (hue, saturation, value). This is the colour model which human eyes perceive.
+##### b) Thresholding technique. This converts an image to a binary image (i.e. with only 2 pixel values either 0 or 255 etc) w.r.t a chosen threshold pixel intensity.
+##### c) Blurring the image to remove un-necessary spots in the image.
